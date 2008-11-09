@@ -1,0 +1,31 @@
+<h1>New booking</h1>
+
+<% form_for(@booking) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :ad_id %><br />
+    <%= f.text_field :ad_id %>
+  </p>
+  <p>
+    <%= f.label :media %><br />
+    <%= f.text_field :media %>
+  </p>
+  <p>
+    <%= f.label :posting_date %><br />
+    <%= f.date_select :posting_date %>
+  </p>
+  <p>
+    <%= f.label :page %><br />
+    <%= f.text_field :page %>
+  </p>
+  <p>
+    <%= f.label :position %><br />
+    <%= f.text_field :position %>
+  </p>
+  <p>
+    <%= f.submit "Create" %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', bookings_path %>

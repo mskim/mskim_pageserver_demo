@@ -1,0 +1,28 @@
+<p>
+  <b>Ad:</b>
+  <%=h @booking.ad_id %>
+</p>
+
+<p>
+  <b>Media:</b>
+  <%=h @booking.media %>
+</p>
+
+<p>
+  <b>Posting date:</b>
+  <%=h @booking.posting_date %>
+</p>
+
+<p>
+  <b>Page:</b>
+  <%=h @booking.page %>
+</p>
+
+<p>
+  <b>Position:</b>
+  <%=h @booking.position %>
+</p>
+
+
+<%= link_to 'Edit', edit_booking_path(@booking) %> |
+<%= link_to 'Back', bookings_path %>

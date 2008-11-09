@@ -1,0 +1,64 @@
+<h1>Editing ad</h1>
+
+<% form_for(@ad) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :phone %><br />
+    <%= f.text_field :phone %>
+  </p>
+  <p>
+    <%= f.label :company %><br />
+    <%= f.text_field :company %>
+  </p>
+  <p>
+    <%= f.label :business_item %><br />
+    <%= f.text_field :business_item %>
+  </p>
+  <p>
+    <%= f.label :copy1 %><br />
+    <%= f.text_field :copy1 %>
+  </p>
+  <p>
+    <%= f.label :copy2 %><br />
+    <%= f.text_field :copy2 %>
+  </p>
+  <p>
+    <%= f.label :phone2 %><br />
+    <%= f.text_field :phone2 %>
+  </p>
+  <p>
+    <%= f.label :fax %><br />
+    <%= f.text_field :fax %>
+  </p>
+  <p>
+    <%= f.label :www %><br />
+    <%= f.text_field :www %>
+  </p>
+  <p>
+    <%= f.label :hp %><br />
+    <%= f.text_field :hp %>
+  </p>
+  <p>
+    <%= f.label :kind %><br />
+    <%= f.text_field :kind %>
+  </p>
+  <p>
+    <%= f.label :size %><br />
+    <%= f.text_field :size %>
+  </p>
+  <p>
+    <%= f.label :template %><br />
+    <%= f.text_field :template %>
+  </p>
+  <p>
+    <%= f.submit "Update" %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @ad %> |
+<%= link_to 'Back', ads_path %>

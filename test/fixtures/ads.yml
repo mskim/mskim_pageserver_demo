@@ -1,0 +1,29 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  phone: MyString
+  company: MyString
+  business_item: MyString
+  copy1: MyString
+  copy2: MyString
+  phone2: MyString
+  fax: MyString
+  www: MyString
+  hp: MyString
+  kind: MyString
+  size: MyString
+
+two:
+  name: MyString
+  phone: MyString
+  company: MyString
+  business_item: MyString
+  copy1: MyString
+  copy2: MyString
+  phone2: MyString
+  fax: MyString
+  www: MyString
+  hp: MyString
+  kind: MyString
+  size: MyString

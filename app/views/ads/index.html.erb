@@ -1,0 +1,64 @@
+<h1>Listing ads</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Phone</th>
+    <th>Company</th>
+    <th>Business item</th>
+    <th>Copy1</th>
+    <th>Copy2</th>
+    <th>Phone2</th>
+    <th>Fax</th>
+    <th>Www</th>
+    <th>Hp</th>
+    <th>Kind</th>
+    <th>Size</th>
+    <th>Template</th>
+  </tr>
+
+<% for ad in @ads %>
+  <tr>
+    <td><%=h ad.name %></td>
+    <td><%=h ad.phone %></td>
+    <td><%=h ad.company %></td>
+    <td><%=h ad.business_item %></td>
+    <td><%=h ad.copy1 %></td>
+    <td><%=h ad.copy2 %></td>
+    <td><%=h ad.phone2 %></td>
+    <td><%=h ad.fax %></td>
+    <td><%=h ad.www %></td>
+    <td><%=h ad.hp %></td>
+    <td><%=h ad.kind %></td>
+    <td><%=h ad.size %></td>
+    <td><%=h ad.template %></td>
+    <td><%= link_to 'Show', ad %></td>
+    <td><%= link_to 'Edit', edit_ad_path(ad) %></td>
+    <td><%= link_to 'Destroy', ad, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New ad', new_ad_path %><br>
+<%= link_to 'Download Data', export_ads_url %><br>
+<% form_for :dump, :url=>{:controller=>"ads", :action=>"import"}, :html => { :multipart => true } do |f| -%>
+ <table">
+   <tr>
+     <td>
+      <label for="dump_file">
+        Select a CSV File :
+      </label>
+     </td>
+     <td >
+       <%= f.file_field :file -%>
+     </td>
+   </tr>
+   <tr>
+     <td colspan='2'>
+       <%= submit_tag 'Submit' -%>
+     </td>
+   </tr>
+ </table>
+<% end -%>

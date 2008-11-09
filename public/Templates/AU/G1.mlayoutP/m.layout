@@ -1,0 +1,893 @@
+{
+    BackupFile = YES;
+    Color =     (
+                {
+            C = "CMYK = 0.40, 0.25, 0.81, 0.00, 1.00";
+            N = "C:39 M:25 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.86, 0.48, 0.25, 0.00, 1.00";
+            N = "C:85 M:48 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.25, 0.86, 1.00, 0.00, 1.00";
+            N = "C:25 M:85 Y:100 K:0";
+        },
+                {
+            C = "CMYK = 0.59, 0.75, 0.25, 0.00, 1.00";
+            N = "C:58 M:75 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.10, 0.32, 0.81, 0.00, 1.00";
+            N = "C:9 M:32 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.92, 0.48, 0.93, 0.00, 1.00";
+            N = "C:91 M:48 Y:93 K:0";
+        },
+                {
+            C = "RGB = 0.52, 0.29, 0.04, 1.00";
+            N = "R:52 G:28 B:3";
+        },
+                {
+            C = "CMYK = 0.48, 0.48, 0.86, 0.00, 1.00";
+            N = "C:48 M:48 Y:85 K:0";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+            N = Black;
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+            N = White;
+        }
+    );
+    DefaultTool =     (
+                {
+            Bounds = "{{240.213, 197.118}, {439.37, 0.00100708}}";
+            Class = SMLine;
+            End = "{679.583, 197.119}";
+            Fill =             {
+                CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+            };
+            Frame =             {
+                LC = "CMYK = 0.00, 0.65, 0.87, 0.00, 1.00";
+                Width = "0.57";
+            };
+            Start = "{240.213, 197.118}";
+        }
+    );
+    DocVer = 20001;
+    GIMClass =     (
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {483, 271}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = A;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {149.291, 107.652}}";
+            CPBox =             {
+                Attribute =                 (
+                );
+                Bounds = "{{811.211, 550.667}, {83.2334, 6}}";
+                Class = ImageCaption;
+                MG = "{{0, 0}, {0, 0}}";
+                Position = 0;
+                UCT = <fffe0000>;
+            };
+            CaptionWidth = "83.23";
+            Class = SMImage;
+            GIM = Y;
+            GIMScale = Y;
+            Name = B;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {145, 128}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = C;
+            SI = 2;
+        }
+    );
+    MasterPage =     (
+                {
+            Bounds = "{{821.315, 50}, {680.315, 198.425}}";
+            Class = SMPageObject;
+            Columns = 1;
+            Gutter = "14.17";
+            Name = "Model:B";
+            OverlapGraphics =             (
+                                {
+                    Article =                     {
+                        Attribute =                         (
+                                                        {
+                                Attrs =                                 {
+                                    BC = Y;
+                                    FontName = Helvetica;
+                                    FontSize = "12.00";
+                                    TextColorShade = "1.00";
+                                    USN = <fffe>;
+                                };
+                                Len = 1;
+                            }
+                        );
+                        Containers =                         (
+                            "{{0, 0}, {711.496, 243.78}}"
+                        );
+                        Unicode = <fffe0000>;
+                    };
+                    Bounds = "{{-8.50394, -8.50394}, {711.496, 243.78}}";
+                    Class = SMRectangle;
+                    GraphicContainer =                     {
+                        BT = 1;
+                        Cell = "{711.496, 11}";
+                        Class = SMGTextBox;
+                        Inter = "{14.1732, 3}";
+                        Row = 17;
+                        addedmargin = "58.503941";
+                    };
+                    Number = 1;
+                }
+            );
+            PageMargin = "{{-8.50394, -8.50394}, {-8.50394, -8.50394}}";
+            PageType = 1;
+        }
+    );
+    PageInfo =     {
+        AutoPageAppend = 1;
+        Baseline = Doc;
+        Bleed = "141.732285";
+        BleedV = "50.000000";
+        CA = 1;
+        CurrentLanguage = 1;
+        Design = seogceolsin;
+        FileHistoryFolder = "/Users/Shared/Softmagic/M/Backup";
+        Grid = N;
+        Guide = N;
+        Host = "sinseogceolyi-keompyuteo.local";
+        Increment = "11.00";
+        LanguageName = "\Ud55c\Uae00";
+        Leading = "3.00";
+        NavigatorInfo =         {
+            OpenedList =             (
+            );
+            SelectedRow = 0;
+            VisibleRect = "{{0, 0}, {214, 13}}";
+        };
+        Pages = 1;
+        PaperSize = "\Uae30\Ud0c0(245.00mm 80.00mm)";
+        PrintInfo =         {
+            Land = Y;
+            PaperName = "";
+            PrinterName = "Adobe PDF 7.0";
+        };
+        Proportional = "";
+        Ruler = Y;
+        Snap = N;
+        Start = "0.00";
+        UnderGrid = YES;
+        pageNumber = 1;
+    };
+    Pages =     (
+                {
+            Bounds = "{{0, 0}, {962.315, 298.425}}";
+            Class = SMPageContainer;
+            GraphicContainer =             {
+                BT = 2;
+                Cell = "{100, 12}";
+                Class = SMGTextBox;
+                Graphics =                 (
+                                        {
+                        Bounds = "{{141, 50}, {680.315, 198.425}}";
+                        Class = SMRectangle;
+                        Frame =                         {
+                            LC = "WHITE = 1.00, 1.00";
+                            Width = "0.50";
+                        };
+                        Lock = 1;
+                        Number = 196;
+                        Shape =                         {
+                            Round = "8.50";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{141, 50}, {680.315, 198.425}}";
+                        Class = SMPageObject;
+                        Columns = 1;
+                        Gutter = "14.17";
+                        Name = "Model:B";
+                        PageMargin = "{{-8.50394, -8.50394}, {-8.50394, -8.50394}}";
+                        PageNumber = 1;
+                        PageType = 1;
+                    },
+                                        {
+                        Bounds = "{{305.409, 58.5039}, {422.362, 92.126}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{-8.629, -3.5045}, {439.62, 99.6}}";
+                            PFN = "AU_RF05(PC)_image2.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/image2/AU_RF05(PC)_image2.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = image2;
+                        Number = 180;
+                        Shape =                         {
+                            Corner = 0;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{172.181, 58.5039}, {147.402, 136.063}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{0, 0}, {143.1, 145.8}}";
+                            PFN = "AU_UF08_image1.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/image1/AU_UF08_image1.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = image1;
+                        Number = 181;
+                        Shape =                         {
+                            Corner = 1;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{732.024, 58.5039}, {19.8425, 133.228}}";
+                        Class = SMImage;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.91, 0.76, 0.06, 1.00";
+                        };
+                        Image =                         {
+                            Frame = "{{4.14126, 8.13417}, {11.56, 116.96}}";
+                            PFN = "AURORA_Logo_white.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/G3PCR_GO_2.mlayoutP/AURORA_Logo_white.eps";
+                            ShowOriginal = YES;
+                        };
+                        Number = 182;
+                        Shape =                         {
+                            Corner = 0;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "Arial-BoldMT";
+                                        FontSize = "6.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-3.00";
+                                    };
+                                    Len = 13;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {51.5129, 7.36679}}"
+                            );
+                            Unicode = <fffe5800 59003100 32003300 34003500 36003700 38003900 30000000>;
+                        };
+                        Bounds = "{{676.071, 143.397}, {51.5129, 7.36679}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{51.5129, 7.36679}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-9.397003";
+                        };
+                        Name = gmark;
+                        Number = 184;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "Arial-BoldMT";
+                                        FontSize = "8.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-3.00";
+                                    };
+                                    Len = 13;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {71.1211, 11.5651}}"
+                            );
+                            Unicode = <fffe5800 59003100 32003300 34003500 36003700 38003900 30000000>;
+                        };
+                        Bounds = "{{131.868, 88.2819}, {71.1211, 11.5651}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{71.1211, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-10.281898";
+                        };
+                        Name = gmark;
+                        Number = 185;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Bounds = "{{172.181, 194.567}, {374.173, 45.3543}}";
+                        Class = SMImage;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.91, 0.76, 0.06, 1.00";
+                        };
+                        Image =                         {
+                            Frame = "{{27.5916, 6.86717}, {318.99, 31.62}}";
+                            PFN = "AURORA_Logo.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/au_logo/AURORA_Logo.eps";
+                            ShowOriginal = YES;
+                        };
+                        Number = 186;
+                        Shape =                         {
+                            Corner = 4;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{617.22, 150.63}, {110.551, 43.937}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{9.35826, 5.4685}, {89, 33}}";
+                            PFN = "BARCODE.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/G3PCR_GO_2.mlayoutP/BARCODE.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = barcode;
+                        Number = 187;
+                        Shape =                         {
+                            Corner = 0;
+                            Round = "2.83";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "Arial-BoldMT";
+                                        FontScale = "105.00";
+                                        FontSize = "32.00";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-8.00";
+                                    };
+                                    Len = 19;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {313.139, 38.5463}}"
+                            );
+                            Unicode = <fffe3200 35003500 2f003600 35005200 31003600 20003900 35005400 20003100 30003900 48000000>;
+                        };
+                        Bounds = "{{305.109, 154.882}, {313.139, 38.5463}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{313.139, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 3;
+                            addedmargin = "-6.882004";
+                        };
+                        Name = sizePr;
+                        Number = 188;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "Arial-BoldMT";
+                                        FontScale = "120.00";
+                                        FontSize = "15.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-5.00";
+                                    };
+                                    Len = 8;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {86.9782, 17.4671}}"
+                            );
+                            Unicode = <fffe3200 30003000 30003000 30003200 0000>;
+                        };
+                        Bounds = "{{111.914, 93.2595}, {86.9782, 17.4671}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{86.9782, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 2;
+                            addedmargin = "-1.259499";
+                        };
+                        Name = materialCode;
+                        Number = 189;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Bounds = "{{305.409, 150.63}, {422.362, 0.000991821}}";
+                        Class = SMLine;
+                        End = "{305.409, 150.631}";
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.00, 0.00, 0.48, 1.00";
+                            Width = "0.50";
+                        };
+                        Number = 190;
+                        Start = "{727.771, 150.63}";
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Arial-BoldMT";
+        FontScale = "110.00";
+        FontSize = "8.50";
+        Plain = YES;
+        TextColorShade = "1.00";
+        Track = "-5.00";
+    };
+    Class = SMParaStyle;
+    Hyphen = NO;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    USN = <fffe6800 65006100 64006300 6f007000 7900>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 90;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {418.979, 16.438}}"
+                            );
+                            Unicode = <fffe4100 6e002000 75006c00 74007200 61002000 68006900 67006800 20007000 65007200 66006f00 72006d00 61006e00 63006500 20007400 69007200 65002000 64006500 6c006900 76006500 72007300 20006f00 75007400 73007400 61006e00 64006900 6e006700 20007000 65007200 66006f00 72006d00 61006e00 63006500 20006f00 6e002000 62006f00 74006800 20007700 65007400 20006100 6e006400 20006400 72007900 20007200 6f006100 64007300 0000>;
+                        };
+                        Bounds = "{{305.839, 56.2044}, {418.979, 16.438}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{418.979, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-6.204399";
+                        };
+                        Name = HeadCopy;
+                        Number = 191;
+                        VAlign = 2;
+                    },
+                                        {
+                        Bounds = "{{311.042, 73.9124}, {390.499, 77.1825}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{34.9595, 7.00125}, {320.58, 63.18}}";
+                            PFN = "AU_RF05_ProductName.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/ProductName/AU_RF05_ProductName.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = productName;
+                        Number = 192;
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "Arial-BoldMT";
+                                        FontScale = "120.00";
+                                        FontSize = "23.00";
+                                        NSParagraphStyle = {
+    Alignment = 0;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-10.00";
+                                    };
+                                    Len = 5;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {104.923, 24.9905}}"
+                            );
+                            Unicode = <fffe5200 46003000 35000000>;
+                        };
+                        Bounds = "{{106.42, 174.273}, {104.923, 24.9905}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{104.923, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 2;
+                            addedmargin = "-12.272995";
+                        };
+                        Name = productCode;
+                        Number = 193;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Bounds = "{{546.354, 194.567}, {205.512, 45.3543}}";
+                        Class = SMImage;
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.91, 0.76, 0.06, 1.00";
+                            Width = "0.50";
+                        };
+                        Image =                         {
+                            Frame = "{{7.606, 2.32715}, {190.3, 40.7}}";
+                            PFN = "AU_RF05(PC)_picto.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/picto/AU_RF05(PC)_picto.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = picto;
+                        Number = 194;
+                        Shape =                         {
+                            Corner = 0;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{756.118, 58.504}, {56.6929, 181.417}}";
+                        Class = SMImage;
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.91, 0.76, 0.06, 1.00";
+                            Width = "0.57";
+                        };
+                        Image =                         {
+                            Frame = "{{2.34645, 2.7085}, {52, 176}}";
+                            PFN = "AU_W_side.eps";
+                            Path = "/Users/shin/Desktop/AURORA_Label/\U1103\U1175\U110c\U1161\U110b\U1175\U11ab\U1100\U116a\U11ab\U1105\U1167\U11ab/Warning/AU_W_side.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = warning;
+                        Number = 204;
+                        Shape =                         {
+                            Corner = 10;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Medium";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Roman";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 19;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Medium";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Roman";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 14;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {82.3386, 6.54559}}"
+                            );
+                            Unicode = <fffe2a00 20005800 4c002000 3a002000 45007800 74007200 61002000 4c006f00 61006400 20002000 20002000 20002000 2a002000 52004600 20003a00 20005200 65006900 6e006600 6f007200 63006500 64000000>;
+                        };
+                        Bounds = "{{420.116, 151.957}, {82.3386, 6.54559}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{82.3386, 6.54559}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-3.957031";
+                        };
+                        Number = 206;
+                    }
+                );
+                Inter = "{1, 1}";
+                Margin = "{{1, 1}, {1, 1}}";
+                Row = 0;
+            };
+            HGuide =             (
+                                {
+                    Len = "198.43";
+                    Loc = "631.50";
+                    SP = "50.00";
+                }
+            );
+            Number = 0;
+            VGuide =             (
+                                {
+                    Len = "680.32";
+                    Loc = "190.50";
+                    SP = "141.00";
+                }
+            );
+        }
+    );
+    PaperSize = "{680.315, 198.425}";
+    ParagraphStyle =     (
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = "Times-Roman";
+                FontSize = "10.00";
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            Hyphen = NO;
+            MinSpacing = "85.00";
+            Spacing = "110.00";
+            SpacingKind = 1;
+            UG = <fffe4400 65006600 61007500 6c007400>;
+            USN = <fffe>;
+            UserSpacing = "15.00";
+        },
+                {
+            Alignment = 2;
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = "Arial-BoldMT";
+                FontScale = "110.00";
+                FontSize = "8.50";
+                Plain = YES;
+                TextColorShade = "1.00";
+                Track = "-5.00";
+            };
+            Class = SMParaStyle;
+            Hyphen = NO;
+            MinSpacing = "85.00";
+            Rank = 1;
+            Spacing = "110.00";
+            USN = <fffe6800 65006100 64006300 6f007000 7900>;
+            UserSpacing = "40.00";
+        }
+    );
+    Ver = 2001;
+}

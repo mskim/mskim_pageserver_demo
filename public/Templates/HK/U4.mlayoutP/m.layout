@@ -1,0 +1,1254 @@
+{
+    BackupFile = YES;
+    Color =     (
+                {
+            C = "CMYK = 0.40, 0.25, 0.81, 0.00, 1.00";
+            N = "C:39 M:25 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.86, 0.48, 0.25, 0.00, 1.00";
+            N = "C:85 M:48 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.25, 0.86, 1.00, 0.00, 1.00";
+            N = "C:25 M:85 Y:100 K:0";
+        },
+                {
+            C = "CMYK = 0.59, 0.75, 0.25, 0.00, 1.00";
+            N = "C:58 M:75 Y:25 K:0";
+        },
+                {
+            C = "CMYK = 0.10, 0.32, 0.81, 0.00, 1.00";
+            N = "C:9 M:32 Y:81 K:0";
+        },
+                {
+            C = "CMYK = 0.92, 0.48, 0.93, 0.00, 1.00";
+            N = "C:91 M:48 Y:93 K:0";
+        },
+                {
+            C = "RGB = 0.52, 0.29, 0.04, 1.00";
+            N = "R:52 G:28 B:3";
+        },
+                {
+            C = "CMYK = 0.48, 0.48, 0.86, 0.00, 1.00";
+            N = "C:48 M:48 Y:85 K:0";
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+            N = Black;
+        },
+                {
+            C = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+            N = White;
+        }
+    );
+    DocVer = 20001;
+    GIMClass =     (
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {483, 271}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = A;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {149.291, 107.652}}";
+            CPBox =             {
+                Attribute =                 (
+                );
+                Bounds = "{{811.211, 550.667}, {83.2334, 6}}";
+                Class = ImageCaption;
+                MG = "{{0, 0}, {0, 0}}";
+                Position = 0;
+                UCT = <fffe0000>;
+            };
+            CaptionWidth = "83.23";
+            Class = SMImage;
+            GIM = Y;
+            GIMScale = Y;
+            Name = B;
+            SI = 2;
+        },
+                {
+            Area = 1;
+            Bounds = "{{0, 0}, {145, 128}}";
+            Class = SMImage;
+            Fill =             {
+                CO1 = "WHITE = 1.00, 1.00";
+            };
+            GIM = Y;
+            Name = C;
+            SI = 2;
+        }
+    );
+    MasterPage =     (
+                {
+            Bounds = "{{821.315, 50}, {680.315, 340.158}}";
+            Class = SMPageObject;
+            Columns = 1;
+            Gutter = "14.17";
+            Name = "Model:B";
+            OverlapGraphics =             (
+                                {
+                    Article =                     {
+                        Attribute =                         (
+                                                        {
+                                Attrs =                                 {
+                                    BC = Y;
+                                    NSParagraphStyle = {
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                    TextColorShade = "1.00";
+                                };
+                                Len = 1;
+                            }
+                        );
+                        Containers =                         (
+                            "{{0, 0}, {697.323, 300.472}}"
+                        );
+                        Unicode = <fffe0000>;
+                    };
+                    Bounds = "{{-8.50394, -8.50394}, {697.323, 300.472}}";
+                    Class = SMRectangle;
+                    GraphicContainer =                     {
+                        BT = 1;
+                        Cell = "{697.323, 11}";
+                        Class = SMGTextBox;
+                        Inter = "{14.1732, 3}";
+                        Row = 21;
+                        addedmargin = "58.503941";
+                    };
+                    Number = 1;
+                }
+            );
+            PageMargin = "{{-8.50394, -8.50394}, {-8.50394, -8.50394}}";
+            PageType = 1;
+        },
+                {
+            Bounds = "{{141, 50}, {680.315, 340.158}}";
+            Class = SMPageObject;
+            Columns = 1;
+            Gutter = "14.17";
+            Name = "Model:B";
+            OverlapGraphics =             (
+                                {
+                    Article =                     {
+                        Attribute =                         (
+                                                        {
+                                Attrs =                                 {
+                                    BC = Y;
+                                    NSParagraphStyle = {
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                    TextColorShade = "1.00";
+                                };
+                                Len = 1;
+                            }
+                        );
+                        Containers =                         (
+                            "{{0, 0}, {697.323, 300.472}}"
+                        );
+                        Unicode = <fffe0000>;
+                    };
+                    Bounds = "{{-8.50394, -8.50394}, {697.323, 300.472}}";
+                    Class = SMRectangle;
+                    GraphicContainer =                     {
+                        BT = 1;
+                        Cell = "{697.323, 11}";
+                        Class = SMGTextBox;
+                        Inter = "{14.1732, 3}";
+                        Row = 21;
+                        addedmargin = "58.503941";
+                    };
+                    Number = 2;
+                }
+            );
+            PageMargin = "{{-8.50394, -8.50394}, {-8.50394, -8.50394}}";
+            PageType = 2;
+        }
+    );
+    PageInfo =     {
+        AutoPageAppend = 1;
+        Baseline = Doc;
+        Bleed = "141.732285";
+        BleedV = "50.000000";
+        CA = 1;
+        CurrentLanguage = 1;
+        Design = seogceolsin;
+        FileHistoryFolder = "/Users/Shared/Softmagic/M/Backup";
+        Grid = N;
+        Guide = N;
+        Host = "sinseogceolyi-keompyuteo.local";
+        Increment = "11.000000";
+        Leading = "3.000000";
+        NavigatorInfo =         {
+            OpenedList =             (
+            );
+            SelectedRow = 0;
+            VisibleRect = "{{0, 0}, {214, 13}}";
+        };
+        Pages = 1;
+        PaperSize = "\Uae30\Ud0c0(240.00mm 100.00mm)";
+        PrintInfo =         {
+            Land = Y;
+            PaperName = "";
+            PrinterName = "Adobe PDF 7.0";
+        };
+        Proportional = "";
+        Ruler = Y;
+        Snap = N;
+        Spread = YES;
+        Start = Doc;
+        UnderGrid = YES;
+        pageNumber = 1;
+    };
+    Pages =     (
+                {
+            Bounds = "{{0, 0}, {1642.63, 440.158}}";
+            Class = SMPageContainer;
+            GraphicContainer =             {
+                BT = 2;
+                Cell = "{100, 12}";
+                Class = SMGTextBox;
+                Graphics =                 (
+                                        {
+                        Bounds = "{{141, 50}, {680.315, 340.158}}";
+                        Class = SMImage;
+                        Frame =                         {
+                            LC = "WHITE = 1.00, 1.00";
+                            Width = "0.50";
+                        };
+                        Lock = 1;
+                        Number = 4;
+                        Shape =                         {
+                            Round = "8.50";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{149.504, 326.378}, {663.307, 56.6929}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{3.6535, 0.846451}, {656, 55}}";
+                            PFN = "HK_U_Under.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/UTQG/HK_U_Under.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = warning;
+                        Number = 78;
+                        Shape =                         {
+                            Corner = 12;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{668.244, 126.535}, {119.339, 150.236}}";
+                        Class = SMImage;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+                        };
+                        Image =                         {
+                            Frame = "{{5.7195, 7.518}, {107.9, 135.2}}";
+                            PFN = "HK_TL01_picto.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/picto/HK_TL01_picto.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = picto;
+                        Number = 57;
+                        Shadow =                         {
+                            OutMargin = "{{119.197, 527.244}, {161.575, 76.5354}}";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{141, 50}, {680.315, 340.158}}";
+                        Class = SMPageObject;
+                        Columns = 1;
+                        Gutter = "14.17";
+                        Name = "Model:B";
+                        PageMargin = "{{-8.50394, -8.50394}, {-8.50394, -8.50394}}";
+                        PageNumber = 1;
+                        PageType = 1;
+                    },
+                                        {
+                        Bounds = "{{246.024, 126.535}, {264.976, 144.798}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{0, 0}, {197.8, 133.4}}";
+                            PFN = "HK_TL01_image1.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/image1/HK_TL01_image1.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = image1;
+                        Number = 31;
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Area = 1;
+                        Bounds = "{{172.181, 58.5039}, {51.0236, 209.764}}";
+                        Class = SMImage;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+                        };
+                        Image =                         {
+                            Frame = "{{8.7118, 14.282}, {33.6, 181.2}}";
+                            PFN = "HK_Logo_53.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/HK_logo/HK_Logo_53.eps";
+                            ShowOriginal = YES;
+                        };
+                        Number = 32;
+                        Shape =                         {
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Area = 1;
+                        Bounds = "{{444.307, 58.5039}, {368.504, 68.0315}}";
+                        Class = SMImage;
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 1.00, 1.00";
+                        };
+                        Image =                         {
+                            Frame = "{{22.252, 13.6158}, {324, 40.8}}";
+                            PFN = "HK_Logo_95.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/HK_logo/HK_Logo_95.eps";
+                            ShowOriginal = YES;
+                        };
+                        Number = 33;
+                        Shape =                         {
+                            Corner = 2;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{668.244, 290.661}, {119.055, 0.5}}";
+                        Class = SMLine;
+                        End = "{787.299, 290.661}";
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+                        };
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.91, 0.76, 0.06, 1.00";
+                            Width = "0.57";
+                        };
+                        Number = 35;
+                        Start = "{668.244, 291.161}";
+                    },
+                                        {
+                        Bounds = "{{668.244, 129.37}, {0.000976562, 161.575}}";
+                        Class = SMLine;
+                        End = "{668.245, 290.945}";
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.65, 0.87, 0.00, 1.00";
+                            Width = "0.57";
+                        };
+                        Number = 37;
+                        Start = "{668.244, 129.37}";
+                    },
+                                        {
+                        Bounds = "{{787.299, 129.37}, {0.000976562, 161.575}}";
+                        Class = SMLine;
+                        End = "{787.3, 290.945}";
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+                        };
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.65, 0.87, 0.00, 1.00";
+                            Width = "0.57";
+                        };
+                        Number = 38;
+                        Start = "{787.299, 129.37}";
+                    },
+                                        {
+                        Bounds = "{{245.882, 58.5039}, {198.425, 68.0315}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{-84.7246, -5.68503}, {284, 74}}";
+                            PFN = "HK_TL01_image2.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/image2/HK_TL01_image2.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = image2;
+                        Number = 40;
+                        Shape =                         {
+                            Corner = 1;
+                            Round = "5.67";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Area = 1;
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Heavy";
+                                        FontSize = "22.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-5.00";
+                                    };
+                                    Len = 8;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {114.335, 24.7}}"
+                            );
+                            Unicode = <fffe3100 30003000 30003000 30003200 0000>;
+                        };
+                        Bounds = "{{108.7, 104.483}, {114.335, 24.7}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{114.335, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 2;
+                            addedmargin = "-12.483002";
+                        };
+                        Name = materialCode;
+                        Number = 44;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Area = 1;
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Heavy";
+                                        FontSize = "22.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-5.00";
+                                    };
+                                    Len = 8;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {107.667, 24.517}}"
+                            );
+                            Unicode = <fffe3100 30003000 30003000 30003200 0000>;
+                        };
+                        Bounds = "{{677.333, 300.483}, {107.667, 24.517}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{107.667, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 2;
+                            addedmargin = "-12.483002";
+                        };
+                        Name = materialCode;
+                        Number = 45;
+                    },
+                                        {
+                        Area = 1;
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Medium";
+                                        FontSize = "10.00";
+                                        NSParagraphStyle = {
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-3.00";
+                                    };
+                                    Len = 10;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {70.9369, 13.075}}"
+                            );
+                            Unicode = <fffe3200 30003000 30003000 30003000 30003000 0000>;
+                        };
+                        Bounds = "{{133.19, 223.534}, {70.9369, 13.075}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{70.9369, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-5.533997";
+                        };
+                        Name = gmark;
+                        Number = 46;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Black";
+                                        FontSize = "17.00";
+                                        NSParagraphStyle = {
+    Alignment = 0;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 5;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {58.4704, 18.3023}}"
+                            );
+                            Unicode = <fffe5400 4c003000 31000000>;
+                        };
+                        Bounds = "{{208.28, 228.113}, {58.4704, 18.3023}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{58.4704, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-10.113007";
+                        };
+                        Name = productCode;
+                        Number = 47;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Roman";
+                                        FontScale = "90.00";
+                                        FontSize = "17.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-10.00";
+                                    };
+                                    Len = 15;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {142.519, 18.7477}}"
+                            );
+                            Unicode = <fffe3300 32003500 2f003500 35005200 32003200 20003100 32003000 56000000>;
+                        };
+                        Bounds = "{{166.033, 122.286}, {142.519, 18.7477}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{142.519, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 2;
+                            addedmargin = "-2.286003";
+                        };
+                        Name = size;
+                        Number = 61;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                    },
+                                        {
+                        Bounds = "{{156.308, 274.903}, {107, 46.8462}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{9, 6.9231}, {89, 33}}";
+                            PFN = "HK_Barcode.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/barcode/HK_Barcode.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = barcode;
+                        Number = 51;
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Area = 1;
+                        Bounds = "{{754.315, 262.483}, {95, 23.5}}";
+                        Class = SMImage;
+                        Number = 56;
+                        Shadow =                         {
+                            Rotate = "90.00";
+                        };
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{246.166, 126.252}, {0.00100708, 144.803}}";
+                        Class = SMLine;
+                        End = "{246.167, 271.055}";
+                        Fill =                         {
+                            CO1 = "CMYK = 0.00, 0.00, 0.00, 0.00, 1.00";
+                        };
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.65, 0.87, 0.00, 1.00";
+                            Width = "0.57";
+                        };
+                        Number = 39;
+                        Start = "{246.166, 126.252}";
+                    },
+                                        {
+                        Bounds = "{{223.205, 270.819}, {445.039, 0.00100708}}";
+                        Class = SMLine;
+                        End = "{668.244, 270.82}";
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.65, 0.87, 0.00, 1.00";
+                            Width = "0.57";
+                        };
+                        Number = 34;
+                        Start = "{223.205, 270.819}";
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Medium";
+                                        FontSize = "6.00";
+                                        NSParagraphStyle = {
+    Alignment = 1;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                        Track = "-3.00";
+                                    };
+                                    Len = 9;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {56.5133, 7.67932}}"
+                            );
+                            Unicode = <fffe3200 30003000 30003000 30003000 30000000>;
+                        };
+                        Bounds = "{{606, 273.654}, {56.5133, 7.67932}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{56.5133, 7.67932}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-13.653992";
+                        };
+                        Name = gmark;
+                        Number = 49;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Bold";
+                                        FontScale = "110.00";
+                                        FontSize = "7.00";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    SpacingKind = 1;
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "15.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 2;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {18.1076, 8.23071}}"
+                            );
+                            Unicode = <fffe4100 0000>;
+                        };
+                        Bounds = "{{259.083, 351.16}, {18.1076, 8.23071}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{18.1076, 8.23071}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-7.160004";
+                        };
+                        Lock = 1;
+                        Name = u3;
+                        Number = 72;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Bold";
+                                        FontScale = "110.00";
+                                        FontSize = "7.00";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    SpacingKind = 1;
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "15.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 3;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {18.1076, 8.23071}}"
+                            );
+                            Unicode = <fffe4100 41000000>;
+                        };
+                        Bounds = "{{259.083, 341.419}, {18.1076, 8.23071}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{18.1076, 8.23071}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-11.419006";
+                        };
+                        Lock = 1;
+                        Name = u2;
+                        Number = 73;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Bold";
+                                        FontScale = "110.00";
+                                        FontSize = "7.00";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    SpacingKind = 1;
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "15.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 4;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {18.1076, 8.23071}}"
+                            );
+                            Unicode = <fffe3200 32003000 0000>;
+                        };
+                        Bounds = "{{259.083, 331.366}, {18.1076, 8.23071}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{18.1076, 8.23071}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-1.365997";
+                        };
+                        Lock = 1;
+                        Name = u1;
+                        Number = 74;
+                    },
+                                        {
+                        Bounds = "{{401.46, 152.454}, {267.153, 119.079}}";
+                        Class = SMImage;
+                        Image =                         {
+                            Frame = "{{15.8516, 37.4395}, {235.45, 44.2}}";
+                            PFN = "HK_TL01_productName.eps";
+                            Path = "/Users/shin/Desktop/Label-Master/label-pasteup/productName/NameData(\U1109\U1166\U1105\U1169)/HK_TL01_productName.eps";
+                            ShowOriginal = YES;
+                        };
+                        Name = productName;
+                        Number = 76;
+                        UDICT =                         {
+                            PGSEdit = 0;
+                        };
+                    },
+                                        {
+                        Bounds = "{{149.504, 323.543}, {663.307, 0.00100708}}";
+                        Class = SMLine;
+                        End = "{812.811, 323.544}";
+                        Frame =                         {
+                            LC = "CMYK = 0.00, 0.65, 0.87, 0.00, 1.00";
+                            Width = "0.57";
+                        };
+                        Number = 80;
+                        Start = "{149.504, 323.543}";
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Hankook-Bold";
+        FontSize = "9.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    Hyphen = NO;
+    IsEdited = 1;
+    LineSpacing = "0.50";
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    USN = <fffe6800 65006100 64006300 6f007000 7900>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 68;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {248.985, 21.2752}}"
+                            );
+                            Unicode = <fffe4100 67006700 72006500 73007300 69007600 65002000 62006c00 6f006300 6b002000 61006e00 64002000 73006800 6f007500 6c006400 65007200 20006c00 75006700 20006f00 66006600 65007200 20006500 78006300 65006c00 6c006500 6e007400 20006f00 66006600 2d007200 6f006100 64002000 74007200 61006300 74006900 6f006e00 0000>;
+                        };
+                        Bounds = "{{413.139, 138.119}, {248.985, 21.2752}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{248.985, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 2;
+                            addedmargin = "-4.119003";
+                        };
+                        Name = headCopy;
+                        Number = 42;
+                        VAlign = 2;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Bold";
+                                        FontScale = "95.00";
+                                        FontSize = "43.00";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 19;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {407.786, 46.0287}}"
+                            );
+                            Unicode = <fffe3300 32003500 2f003500 35005200 32003200 20003200 33005a00 20003100 32003000 56000000>;
+                        };
+                        Bounds = "{{256.5, 281.828}, {407.786, 46.0287}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{407.786, 11}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 3;
+                            addedmargin = "-7.828003";
+                        };
+                        Name = sizePr;
+                        Number = 48;
+                    },
+                                        {
+                        Article =                         {
+                            Attribute =                             (
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Medium";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Roman";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 19;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Medium";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 4;
+                                },
+                                                                {
+                                    Attrs =                                     {
+                                        BC = Y;
+                                        FontName = "HelveticaNeue-Roman";
+                                        FontSize = "4.50";
+                                        NSParagraphStyle = {
+    Alignment = 2;
+    CharStyle =     {
+        Class = SMCharStyle;
+        FontName = "Times-Roman";
+        FontSize = "10.00";
+        Plain = YES;
+        TextColorShade = "1.00";
+    };
+    Class = SMParaStyle;
+    HyphenationPrefix = 3;
+    HyphenationShortestWord = 6;
+    IsEdited = 1;
+    MinSpacing = "85.00";
+    Spacing = "110.00";
+    UG = <fffe4400 65006600 61007500 6c007400>;
+    USN = <fffe2d00 2d00>;
+    UserSpacing = "40.00";
+};
+                                        TextColorShade = "1.00";
+                                    };
+                                    Len = 14;
+                                }
+                            );
+                            Containers =                             (
+                                "{{0, 0}, {82.3386, 6.54559}}"
+                            );
+                            Unicode = <fffe2a00 20005800 4c002000 3a002000 45007800 74007200 61002000 4c006f00 61006400 20002000 20002000 20002000 2a002000 52004600 20003a00 20005200 65006900 6e006600 6f007200 63006500 64000000>;
+                        };
+                        Bounds = "{{419.075, 272.075}, {82.3386, 6.54559}}";
+                        Class = SMRectangle;
+                        GraphicContainer =                         {
+                            Cell = "{82.3386, 6.54559}";
+                            Class = SMGTextBox;
+                            Inter = "{14.1732, 3}";
+                            Row = 1;
+                            addedmargin = "-12.075012";
+                        };
+                        Number = 82;
+                    }
+                );
+                Inter = "{1, 1}";
+                Margin = "{{1, 1}, {1, 1}}";
+                Row = 0;
+            };
+            Number = 0;
+        }
+    );
+    PaperSize = "{680.315, 340.158}";
+    ParagraphStyle =     (
+                {
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = "Times-Roman";
+                FontSize = "10.00";
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            Hyphen = NO;
+            MinSpacing = "85.00";
+            Spacing = "110.00";
+            UG = <fffe4400 65006600 61007500 6c007400>;
+            USN = <fffe>;
+            UserSpacing = "40.00";
+        },
+                {
+            Alignment = 2;
+            CharStyle =             {
+                Class = SMCharStyle;
+                FontName = "Hankook-Bold";
+                FontSize = "9.00";
+                Plain = YES;
+                TextColorShade = "1.00";
+            };
+            Class = SMParaStyle;
+            Hyphen = NO;
+            LineSpacing = "0.50";
+            MinSpacing = "85.00";
+            Rank = 1;
+            Spacing = "110.00";
+            USN = <fffe6800 65006100 64006300 6f007000 7900>;
+            UserSpacing = "40.00";
+        }
+    );
+    Ver = 2001;
+}

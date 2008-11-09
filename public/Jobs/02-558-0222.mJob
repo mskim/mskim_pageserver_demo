@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">                <plist version="1.0">
+<dict>
+<key>JobType</key>
+                   <string>label</string>
+                   <key>ProjectPath</key>
+                 	<string>/Users/mskim/Development/Rails/adbase/public/images/boxad</string>
+                 	<key>TemplatePath</key>
+                 	<string>/Users/mskim/Development/Rails/adbase/public/Templates/boxad_1x30.mlayoutP</string>
+                 	<key>HeaderString</key>
+                 	<string>copy2	business_item	company	www	fax	phone	hp	phone2	copy1</string>
+                  <key>DataString</key>
+                 	<string>This is a copy2	Trophy	Softmagic	www.softmagic.com	871-3258	02-558-0222	011-243-0222	031-275-0541	상패.트로피.크리스탈컵.우승기</string>
+                  <key>OutputFilePath</key>
+                 	<string>/Users/mskim/Development/Rails/adbase/public/Output/02-558-0222</string>
+  </dict>
+</plist>

@@ -1,0 +1,33 @@
+<table>
+  <tr>
+    <th>name</th>
+    <th>phone</th>
+    <th>company</th>
+    <th>copy1</th>
+    <th>copy2</th>
+    <th>phone2</th>
+    <th>fax</th>
+    <th>www</th>
+    <th>hp</th>
+    <th>kind</th>
+    <th>size</th>
+    <th>template</th>
+  </tr>
+
+<% for ad in @ads %>
+  <tr>
+    <td><b><%=h ad.name %></b></td>
+	<td><b><%=h ad.phone %></b></td>
+	<td><b><%=h ad.company %></b></td>
+    <td><%=h ad.copy1 %></td>
+    <td><%=h ad.copy2 %></td>
+    <td><%=h ad.phone2 %></td>
+    <td><%=h ad.fax %></td>
+    <td><%=h ad.www %></td>
+    <td><%=h ad.hp %></td>
+    <td><%=h ad.kind %></td>
+    <td><%=h ad.size %></td>
+    <td><%=h ad.template %></td>
+  </tr>
+<% end %>
+</table>
