@@ -2,7 +2,7 @@ class Ad < ActiveRecord::Base
 
     def generate_PDF
       unless template.blank?
-           myRecord={"company"=>company, "phone"=>phone, "business_item"=>business_item,  "copy1"=>copy1, "copy2"=>copy2, "fax"=>fax, "phone2"=>phone2,"www"=>www, "hp"=>hp }
+           myRecord={"company"=>company, "phone"=>phone, "business_item"=>business_item,  "copy1"=>copy1, "copy2"=>copy2, "fax"=>fax, "phone2"=>phone2,"www"=>www, "hp"=>hp,"image1"=>phone,"image2"=>phone,"image3"=>phone }
            generate_mJob(myRecord)
            path="#{RAILS_ROOT}/public/Jobs/"+"#{phone}"
            jobPath="#{path}"+".mJob"

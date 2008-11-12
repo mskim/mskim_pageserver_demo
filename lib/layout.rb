@@ -1,7 +1,7 @@
 
 def generate_PDF(ad)
   unless ad.template.blank?
-       myRecord={"company"=>company.name, "phone"=>ad.phone, "business_item"=>ad.business_item,  "copy1"=>ad.copy1, "copy2"=>ad.copy2, "fax"=>ad.fax, "phone2"=>ad.phone2,"www"=>ad.www, "hp"=>ad.hp }
+       myRecord={"company"=>company.name, "phone"=>ad.phone, "business_item"=>ad.business_item,  "copy1"=>ad.copy1, "copy2"=>ad.copy2, "fax"=>ad.fax, "phone2"=>ad.phone2,"www"=>ad.www, "hp"=>ad.hp,"image1"=>ad.phone,"image2"=>ad.phone }
        generate_mJob(ad, myRecord)
        path="#{RAILS_ROOT}/public/Jobs/"+"#{combinedNameAsUniqueID}"
        jobPath="#{path}"+".mJob"

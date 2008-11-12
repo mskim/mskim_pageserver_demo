@@ -155,7 +155,7 @@
         Design = seogceolsin;
         FileHistoryFolder = "/Users/Shared/Softmagic/M/Backup";
         Grid = N;
-        Guide = N;
+        Guide = Y;
         Host = "sinseogceolyi-keompyuteo.local";
         Increment = "11.00";
         LanguageName = "\Ud55c\Uae00";
@@ -369,7 +369,7 @@
                             Row = 1;
                             addedmargin = "-8.000000";
                         };
-                        Name = materialCode;
+                        Name = phone;
                         Number = 157;
                     },
                                         {
@@ -639,7 +639,7 @@
                             Row = 1;
                             addedmargin = "-8.779999";
                         };
-                        Name = HeadCopy;
+                        Name = "business_item";
                         Number = 32;
                     },
                                         {
@@ -651,7 +651,7 @@
                             Path = "/Users/shin/Desktop/Label-Master/label-pasteup/productName/NameData(\U1109\U1166\U1105\U1169)/HK_H105_productName.eps";
                             ShowOriginal = YES;
                         };
-                        Name = productName;
+                        Name = image2;
                         Number = 35;
                         UDICT =                         {
                             PGSEdit = 0;
@@ -769,7 +769,7 @@
                             Path = "/Users/shin/Desktop/Label-Master/label-pasteup/image2/HK_H105_image2.eps";
                             ShowOriginal = YES;
                         };
-                        Name = image2;
+                        Name = image3;
                         Number = 9;
                         Shape =                         {
                             Corner = 1;
@@ -899,7 +899,7 @@
                             Row = 3;
                             addedmargin = "-4.710007";
                         };
-                        Name = phone;
+                        Name = company;
                         Number = 39;
                     },
                                         {
